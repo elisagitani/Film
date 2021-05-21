@@ -15,7 +15,6 @@ function save() {
     else {
         localStorage.setItem('Utente', username);
         change();
-        break;
     }
 }
 
