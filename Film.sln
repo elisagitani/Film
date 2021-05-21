@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "Film", ".", "{308A1698-0B83-47E7-8B14-F0FCA07E713B}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_60224"
+		Debug.AspNetCompiler.PhysicalPath = "..\..\..\Desktop\html\Film\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_60224\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_60224"
+		Release.AspNetCompiler.PhysicalPath = "..\..\..\Desktop\html\Film\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_60224\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "60224"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{308A1698-0B83-47E7-8B14-F0FCA07E713B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{308A1698-0B83-47E7-8B14-F0FCA07E713B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {48927D49-9B2F-4412-9E4C-DF2344742340}
+	EndGlobalSection
+EndGlobal

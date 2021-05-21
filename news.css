@@ -1,0 +1,17 @@
+﻿body {
+    background-color: peachpuff;
+}
+
+header {
+    background-color: darksalmon;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+input[type="button"] {
+    background-color: dodgerblue;
+    font-size: large;
+    color: white;
+    border-color: dodgerblue;
+}
